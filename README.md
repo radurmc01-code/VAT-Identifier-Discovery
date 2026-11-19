@@ -5,4 +5,4 @@
 3. Curatare lista firme (fix_csv.py)
 4. Grupare dupa criteriul VAT (similarities.py)
 5. In terminal: pip install requests beautifulsoup4 pandas openpyxl python-dotenv
-
+6. BRAVE_API_KEY: BSAvAWcjzt6BQDXvHT6dkpyjuucY0in
