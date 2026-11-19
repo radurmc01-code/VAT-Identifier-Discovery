@@ -1,7 +1,7 @@
 import csv
 from pathlib import Path
 
-RESULTS_FILE = Path(r"C:\Users\radur\PycharmProjects\PythonProject1\companies_house_data\results\vat_candidates.csv")
+RESULTS_FILE = Path(r"vat_candidates.csv")
 
 HEADER_15 = [
     "company_name", "company_number", "ch_postcode", "website", "website_status",
